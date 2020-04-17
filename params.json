@@ -113,8 +113,9 @@
       }
     }
   },
-  "name": "101: Basic (Tutorial) for Administrator",
+  "name": "Git Test with Alex",
   "projectStatus": "Sandbox",
+  "imgPattern": 4,
   "metrics": {
     "probes": [],
     "engineConfig": {
@@ -170,11 +171,11 @@
     }
   },
   "versionTag": {
-    "versionNumber": 9,
+    "versionNumber": 10,
     "lastModifiedBy": {
       "login": "admin"
     },
-    "lastModifiedOn": 1587149050827
+    "lastModifiedOn": 1587149147054
   },
   "creationTag": {
     "versionNumber": 0,
